@@ -2,6 +2,8 @@
 
 En este repositorio se encuentra todo el código relacionado con el Trabajo de Fin de Grado "Minería y Visualización de Datos de Contratación Pública del Estado" desarrollado por Miguel Azores Picón en el Grado en Ingeniería de Robótica Software.
 
+Puedes encontrar más información sobre el proyecto en la web del mismo: [TFG Miguel Azores Picón](https://sites.google.com/view/tfg-miguelazores)
+
 ## Resumen del Proyecto
 
 Este proyecto ha consistido en desarrollar un conjunto de herramientas que mejoren el acceso a la información y la explotación de los datos de contratación pública. Para ello, se han desarrollado varias herramientas que permiten extraer, almacenar y visualizar datos de la Plataforma de Contratación del Sector Público (PLACSP). Estas tres herramientas son independientes y pueden funcionar por separado o de manera conjunta según el propósito deseado.
