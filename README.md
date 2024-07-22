@@ -14,3 +14,8 @@ la extracción, almacenamiento y visualización de los datos de cualquier órgan
 
 El proyecto ha sido diseñado y desarrollado como parte del Trabajo de Fin de Grado en Ingeniería de Robótica Software. Parte de la idea de implementar una herramienta que mejore la transparencia y el acceso a los datos de la administración pública mediante el uso de tecnologías avanzadas, poniendo en práctica y ampliando todo lo aprendido durante el grado en lo que se refiere a desarrollo software, automatización de procesos y sistemas robóticos digitales.
 
+## Esquema General de las Aplicaciones
+
+En el siguiente diagrama se pueden observar los tres módulos, extracción, almacenamiento y visualización de datos interaccionando con el resto de elementos del sistema: la PLACSP, las bases de datos y la visualización web. Además, se puede ver un esquema de la herramienta completa y de cada uno de los prototipos implementados.
+
+![Diagrama del Esquema General de las Aplicaciones](ruta/al/diagrama.png)
