@@ -1,7 +1,7 @@
 # Minería y Visualización de Datos de Contratación Pública del Estado
 En este repositorio se encuentra todo el código relacionado con el Frabajo de fin de Grado "Minería y Visualización de Datos de Contratación Pública del Estado" desarrollado por Miguel Azores Picón en el Grado Ingeniería de Robótica Software. 
 
-#Resumen del proyecto
+# Resumen del proyecto
 Este proyecto ha consistido en desarrollar un conjunto de herramientas que mejoren el
 acceso a la información y la explotación de los datos de contratación pública. Para ello, se
 han desarrollado varias herramientas que permiten extraer, almacenar y visualizar datos
