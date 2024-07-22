@@ -20,11 +20,17 @@ En el siguiente diagrama se pueden observar los tres módulos, extracción, alma
 
 ![Diagrama del Esquema General de las Aplicaciones](Imagenes/DIAGRAMA.png)
 
-## El código:
+## El Código
+
 En este apartado se explica la función de cada uno de los ficheros de este repositorio:
-Scraping_params.py -> Módulo con las funciones para la extracción de datos.
-Raw_db.py -> Módulo de descarga de datos, genera una base de datos crudos.
-Clean_db.py -> Genera la base de datos limpios.
-Standar_upload.py -> Módulo de limpieza y almacenamientro de datos, carga los datos en la base de datos limpios.
-Upload_visual.py -> Módulo de visualización, genera un portal de visualización de datos.
-Extracción_automatica.py -> automatiza la ejecución de los módulos de extracción y almacenamiento. 
+
+- **Scraping_params.py**: Módulo con las funciones para la extracción de datos.
+- **Raw_db.py**: Módulo de descarga de datos, genera una base de datos crudos.
+- **Clean_db.py**: Genera la base de datos limpios.
+- **Standar_upload.py**: Módulo de limpieza y almacenamiento de datos, carga los datos en la base de datos limpios.
+- **Upload_visual.py**: Módulo de visualización, genera un portal de visualización de datos.
+- **Extracción_automatica.py**: Automatiza la ejecución de los módulos de extracción y almacenamiento.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
