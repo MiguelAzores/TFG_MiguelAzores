@@ -18,4 +18,4 @@ El proyecto ha sido diseñado y desarrollado como parte del Trabajo de Fin de Gr
 
 En el siguiente diagrama se pueden observar los tres módulos, extracción, almacenamiento y visualización de datos interaccionando con el resto de elementos del sistema: la PLACSP, las bases de datos y la visualización web. Además, se puede ver un esquema de la herramienta completa y de cada uno de los prototipos implementados.
 
-![Diagrama del Esquema General de las Aplicaciones](ruta/al/diagrama.png)
+![Diagrama del Esquema General de las Aplicaciones](TFG_MiguelAzores/Imagenes/diagrama_modulos)
